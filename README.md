@@ -3,7 +3,7 @@
 - ## My Stack (MERN)
 - I'm a front-end sotware developer with a passion of pushing the boundaries and going against the odds of Web Design.
 - I'm passionate about creating intuitive and visually appealing user interfaces.
--  I have a deep understanding of HTML, CSS, JavaScript, and front-end frameworks such as React.
+- I have a deep understanding of HTML, CSS, JavaScript, and front-end frameworks, including React.
 -  I specialize in crafting immersive user experiences that captivate and delight.
 - 🌱 I’m currently learning ReactJS , Advanced JavaScript
 - 💞️ I’m looking to collaborate on React projects and also JavaScript Activities
