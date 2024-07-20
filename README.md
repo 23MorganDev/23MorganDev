@@ -1,17 +1,9 @@
-# Innovative Front-End Developer @23MorganDev
-- 👀 ## About Me
-- ## My Stack (MERN)
-- I'm a front-end sotware developer with a passion of pushing the boundaries and going against the odds of Web Design.
-- I'm passionate about creating intuitive and visually appealing user interfaces.
-- I have a deep understanding of HTML, CSS, JavaScript, and front-end frameworks, including React.
--  I specialize in crafting immersive user experiences that captivate and delight.
-- 🌱 I’m currently learning ReactJS , Advanced JavaScript
-- 💞️ I’m looking to collaborate on React projects and also JavaScript Activities
+🚀 Aspiring Full Stack Developer & Tech Ambassador 🎓 
+--Passionate about Python, JavaScript, Web Development, MySQL, Node.js, HTML/CSS
+--💡 Innovator in Front-end & Back-end Technologies 
+-- 🌱 Lifelong Learner
 
-I'd love to connect with fellow developers, designers, and enthusiasts! If you're interested in discussing potential collaborations, sharing ideas, or simply connecting with me,
-feel free to reach out.
-- 📫 How to reach me 
-- 
-     ☎ 0113427928
+🤝 Open to Collaborations & Opportunities with fellow developers, designers, and enthusiasts! If you're interested in discussing potential collaborations, sharing ideas, or simply connecting with me,
+feel free to reach out. 
      📧 morganmuthee1@gmail.com
 
